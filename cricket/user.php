@@ -19,7 +19,7 @@ if (isset($_POST['submit'])) {
 
         move_uploaded_file($tmpName, 'img/');
 
-        $quary = "INSERT INTO cricket VALUES"
+        $quary = "INSERT INTO cricket VALUES";
     }
 }
 
